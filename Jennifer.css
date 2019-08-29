@@ -1,0 +1,35 @@
+body {
+    margin: 50px 120px;
+    padding: 6px 5px;
+    border: 4px groove #f0f0f0;
+    border-radius: 0px 70px 0px 70px;
+    font-family: 'Playfair Display', serif;
+    background: #ffffff;
+    color:#444343;
+    background-image:url("flowers-67839_960_720 - Copy.jpg");
+    background-size:cover;
+
+}
+
+a{
+    color: #e259d0;
+}
+
+h1 {
+    color: #e259d0;
+    text-shadow:  2px 2px 2px #f7a9e3;
+}
+
+h2{
+    color: #d66ac8;
+}
+
+h4{
+    color: #cc78c1;
+}
+
+img{
+    border-radius:50% 50%;
+    float: left;
+    margin-right: 80px;
+}
